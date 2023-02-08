@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ProjectProduct</string>
+    <string name="text_bahan">
+        - 3 Jagung ukuran besar
+        - Keju parut secukupnya
+        - Air secukupnya, untuk merebus jagung.</string>
+    <string name="text_alatdanperlengkapan">
+        - Pisau
+        - Talenan
+        - Piring
+        - Piring Saji
+        - Panci Besar </string>
+    <string name="text_caramemasak0">1. Potong jagung menjadi beberapa bagian menggunakan pisau dan talenan</string>
+    <string name="text_caramemasak1">2. Masukkan air dan jagung yang sudah dipotong-potong ke dalam panci besar, Rebus jagung hingga matang dan empuk </string>
+    <string name="text_caramemasak2">3. Angkat dan tiriskan jagung yang sudah direbus ke dalam piring </string>
+    <string name="text_caramemasak3">4. Letakkan jagung ke dalam piring saji dan tambahkan topping keju yang sudah diparut, jagung rebus keju siap disajikan</string>
+    <string name="text_terimakasih"> Terimakasih</string>
+</resources>
